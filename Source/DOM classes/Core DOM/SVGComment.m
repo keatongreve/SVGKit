@@ -1,14 +1,14 @@
 //
-//  Comment.m
+//  SVGComment.m
 //  SVGKit
 //
 //  Created by adam on 22/05/2012.
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 
-#import "Comment.h"
+#import "SVGComment.h"
 
-@implementation Comment
+@implementation SVGComment
 
 - (id)initWithValue:(NSString*) v
 {
